@@ -4,6 +4,9 @@ title: Tehtävät
 
 # Tehtävät
 
+TODO
+
+<!--
 ## Tehtävien ohjeet
 
 Sinun tulee ratkaista viikoittain ainakin 5 / 8 tehtävää deadlineen mennessä, jotta saat suorituksen kurssista.
@@ -27,3 +30,4 @@ Viikon ensimmäiset tehtävät palautetaan Tasks-järjestelmään. Nämä tehtä
 Viikon muut tehtävät palautetaan CSES-järjestelmään. Nämä tehtävät ovat soveltavia ohjelmointitehtäviä.
 
 * [Siirry tehtäviin](https://cses.fi/tira20s/list/)
+-->

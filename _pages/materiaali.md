@@ -14,6 +14,9 @@ Kurssin I-osa käsittelee kirjan luvut 1–7 ja kurssin II-osa käsittelee kirja
 
 ## Lisämateriaali
 
+TODO
+
+<!--
 ### Viikko 1
 
 * Video: Kurssin I-osan aloitusluento [Tallenne](https://www.helsinki.fi/fi/unitube/video/27cb1219-11f9-4350-bde0-31f1b9adda90)
@@ -98,6 +101,7 @@ Kurssin I-osa käsittelee kirjan luvut 1–7 ja kurssin II-osa käsittelee kirja
 
 * Video: Virtauksen laskeminen [Java](https://www.helsinki.fi/unitube/video/d49289a3-dc4b-4fb2-8b83-d6ca7c20bcce) [Python](https://www.helsinki.fi/unitube/video/d641fa1c-9d31-4c42-87d4-7763198fab6f)
 * Video: Solmun virtauksen rajoitus [Ideointi](https://www.helsinki.fi/fi/unitube/video/6f4c508e-c219-4118-8a2c-2708e3010040)
+-->
 
 ## Muita kirjoja
 
