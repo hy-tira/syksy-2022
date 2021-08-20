@@ -19,7 +19,7 @@ Kurssin I-osan aloitusluento järjestetään Zoomissa to 9.9. klo 14:15–15:45.
 
 Kurssin II-osan aloitusluento järjestetään Zoomissa to 4.11. klo 14:15–15:45.
 
-Kurssilla on [Telegram-kanava](https://t.me/tiratg), jossa voit keskustella muiden opiskelijoiden ja kurssin henkilökunnan kanssa.
+Kurssin ohjausta järjestetään Discordissa, jossa voit keskustella kurssin järjestäjien ja muiden opiskelijoiden kanssa. [Liity ryhmään](https://study.cs.helsinki.fi/discord/join/tira)
 
 ## Tehtävät
 
@@ -52,4 +52,4 @@ Kaikki deadlinet ovat sunnuntaisin klo 23:59.
 
 ## Yhteystiedot
 
-Kurssin luennoija syksyllä 2021 on Antti Laaksonen. Voit ottaa yhteyttä [sähköpostitse](mailto:ahslaaks@cs.helsinki.fi) tai Telegramissa.
+Kurssin luennoija syksyllä 2021 on Antti Laaksonen. Voit ottaa yhteyttä lähettämällä [sähköpostia](mailto:ahslaaks@cs.helsinki.fi) tai viestin Discordissa.
