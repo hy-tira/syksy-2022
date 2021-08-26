@@ -11,7 +11,7 @@ Syksyllä 2021 voit suorittaa kurssin verkkokurssina, jonka materiaali on täll�
 
 ## Ilmoittautuminen
 
-TODO
+Jos olet Helsingin yliopiston tutkinto-opiskelija, ilmoittaudu kurssille Sisussa. Jos olet Avoimen yliopiston opiskelija, kurssille ei ole ilmoittautumista etukäteen vaan saat ohjeet suoritusmerkinnän hakemiseen kurssin aikana.
 
 ## Luennot ja ohjaus
 
