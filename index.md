@@ -15,9 +15,9 @@ Jos olet Helsingin yliopiston tutkinto-opiskelija, ilmoittaudu kurssille Sisussa
 
 ## Luennot ja ohjaus
 
-Kurssin I-osan aloitusluento järjestetään Zoomissa to 9.9. klo 14:15–15:45.
+Kurssin I-osan aloitusluento järjestetään Zoomissa to 9.9. klo 14:15–15:45. Zoom-linkki ilmestyy tähän lähempänä luentoa.
 
-Kurssin II-osan aloitusluento järjestetään Zoomissa to 4.11. klo 14:15–15:45.
+Kurssin II-osan aloitusluento järjestetään Zoomissa to 4.11. klo 14:15–15:45. Zoom-linkki ilmestyy tähän lähempänä luentoa.
 
 Kurssin ohjausta järjestetään Discordissa, jossa voit keskustella kurssin järjestäjien ja muiden opiskelijoiden kanssa. [Liity ryhmään](https://study.cs.helsinki.fi/discord/join/tira)
 
