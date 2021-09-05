@@ -21,6 +21,8 @@ Koska kurssi suoritetaan ratkomalla tehtäviä, on oleellista, että olet tuotta
 
 * Kun palautat koodin, sen tulee olla alusta alkaen itse kirjoittamasi ilman, että katsot ratkaisua kirjoittaessa mallia kurssimateriaalin ulkopuolisesta koodista.
 
+* Kaksi opiskelijaa ei voi palauttaa yhdessä tehtyä koodia, vaan koodi täytyy kirjoittaa itsenäisesti, vaikka tehtävää olisi mietitty yhdessä.
+
 ## Lähteiden merkintä
 
 Jos ratkaisussa käyttämäsi algoritmi perustuu ideaan, jonka olet löytänyt netistä, laita koodiin kommenttiin linkki kyseiselle sivustolle.

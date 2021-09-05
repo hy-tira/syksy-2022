@@ -10,7 +10,7 @@ Kurssin materiaali on avoin oppikirja _Tietorakenteet ja algoritmit_. Kirja on s
 
 * [https://www.cs.helsinki.fi/u/ahslaaks/tirakirja/](https://www.cs.helsinki.fi/u/ahslaaks/tirakirja/)
 
-Kurssin I-osa käsittelee kirjan luvut 1–7 ja kurssin II-osa käsittelee kirjan luvut 8–14.
+Kurssin jokainen viikko käsittelee vastaavaa kirjan lukua (I-osa luvut 1–7 ja II-osa luvut 8–14).
 
 ## Lisämateriaali
 
