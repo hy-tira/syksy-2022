@@ -15,7 +15,7 @@ Jos olet Helsingin yliopiston tutkinto-opiskelija, ilmoittaudu kurssille Sisussa
 
 ## Luennot ja ohjaus
 
-Kurssin I-osan aloitusluento järjestetään Zoomissa to 9.9. klo 14:15–15:45. [Zoom-linkki](https://helsinki.zoom.us/j/66464858554?pwd=NUlQdGh0ejBhb1gzWlp1bVpiNjBKZz09)
+Kurssin I-osan aloitusluento järjestetään Zoomissa to 9.9. klo 14:15–15:45. [Luentonauhoite](https://www2.helsinki.fi/unitube/video/5fcd9667-d247-46b0-a8d7-3395f44e0c94)
 
 Kurssin II-osan aloitusluento järjestetään Zoomissa to 4.11. klo 14:15–15:45. Zoom-linkki ilmestyy tähän lähempänä luentoa.
 
