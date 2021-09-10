@@ -19,6 +19,7 @@ Kurssin jokainen viikko käsittelee vastaavaa kirjan lukua (I-osa luvut 1–7 ja
 * Video: Kurssin I-osan aloitusluento [Tallenne](https://www2.helsinki.fi/unitube/video/5fcd9667-d247-46b0-a8d7-3395f44e0c94)
 * Sanojen etsiminen (luentoesimerkki) [Java](java-sanat.html) [Python](python-sanat.html)
 * Vinkkejä ohjelmointiin [Java](java-vinkit.html) [Python](python-vinkit.html)
+* Lähetys CSES:ään komentoriviltä [Ohje](https://github.com/csesfi/cses-cli/wiki/User-manual)
 
 ### Viikko 2
 
