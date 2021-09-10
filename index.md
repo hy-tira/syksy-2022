@@ -21,6 +21,8 @@ Kurssin II-osan aloitusluento järjestetään Zoomissa to 4.11. klo 14:15–15:4
 
 Kurssin ohjausta järjestetään Discordissa, jossa voit keskustella kurssin järjestäjien ja muiden opiskelijoiden kanssa. [Liity ryhmään](https://study.cs.helsinki.fi/discord/join/tira)
 
+Lisäksi voit saada ohjausta tehtäviin myös [algoritmipajassa](pages/pajaohjaus.html)
+
 ## Tehtävät
 
 Kurssi muodostuu kahdesta erillisestä 5 op osasuorituksesta. Molemmissa osissa on 7 viikkoa tehtäviä, kullakin viikolla 8 tehtävää. Suoritukseen vaaditaan, että ratkaiset joka viikko ainakin 5 tehtävää. Suorituksen arvosana määräytyy seuraavasti:
