@@ -30,7 +30,7 @@ Kurssin jokainen viikko käsittelee vastaavaa kirjan lukua (I-osa luvut 1–7 ja
 ### Viikko 3
 
 * Video: Miten käyttää järjestämistä? [Java](https://www.helsinki.fi/unitube/video/49980dc2-9fa1-4fcc-bd7b-b72adf84f6bc) [Python](https://www.helsinki.fi/unitube/video/b8e4416b-add6-40e6-b5e1-9fa324744de4)
-* Video: Ahne algoritmi [Java](https://www.helsinki.fi/unitube/video/6950a7c6-0357-4a82-97ad-9a37bbe3d858) [Python](https://www.helsinki.fi/unitube/video/c314c356-3c82-4ebe-9c5c-1e711010c432)<!--
+* Video: Ahne algoritmi [Java](https://www.helsinki.fi/unitube/video/6950a7c6-0357-4a82-97ad-9a37bbe3d858) [Python](https://www.helsinki.fi/unitube/video/c314c356-3c82-4ebe-9c5c-1e711010c432)
 
 <!--
 ### Viikko 4
