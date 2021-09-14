@@ -21,7 +21,7 @@ Kurssin II-osan aloitusluento järjestetään Zoomissa to 4.11. klo 14:15–15:4
 
 Kurssin ohjausta järjestetään Discordissa, jossa voit keskustella kurssin järjestäjien ja muiden opiskelijoiden kanssa. [Liity ryhmään](https://study.cs.helsinki.fi/discord/join/tira)
 
-Lisäksi voit saada ohjausta tehtäviin myös [algoritmipajassa](pages/pajaohjaus.html)
+Lisäksi voit saada ohjausta tehtäviin myös [algoritmipajassa](pages/pajaohjaus.html).
 
 ## Tehtävät
 
