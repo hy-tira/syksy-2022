@@ -27,12 +27,12 @@ Kurssin jokainen viikko käsittelee vastaavaa kirjan lukua (I-osa luvut 1–7 ja
 * Video: Toinen O(n)-algoritmi [Java](https://www.helsinki.fi/unitube/video/c7951777-564a-44de-a803-e9591db4108d) [Python](https://www.helsinki.fi/unitube/video/b37019b6-b43f-4e02-a3b3-1b9a1ed35aca)
 * Video: Halkaisukohtien laskeminen O(n)-algoritmilla [Java](https://www.helsinki.fi/unitube/video/2a2a3c53-3ac0-4f97-9b7d-5dfcfb0cf47f) [Python](https://www.helsinki.fi/fi/unitube/video/0ed4d0f4-dd08-4463-9b91-6ca0768b790c)
 
-<!--
 ### Viikko 3
 
 * Video: Miten käyttää järjestämistä? [Java](https://www.helsinki.fi/unitube/video/49980dc2-9fa1-4fcc-bd7b-b72adf84f6bc) [Python](https://www.helsinki.fi/unitube/video/b8e4416b-add6-40e6-b5e1-9fa324744de4)
-* Video: Ahne algoritmi [Java](https://www.helsinki.fi/unitube/video/6950a7c6-0357-4a82-97ad-9a37bbe3d858) [Python](https://www.helsinki.fi/unitube/video/c314c356-3c82-4ebe-9c5c-1e711010c432)
+* Video: Ahne algoritmi [Java](https://www.helsinki.fi/unitube/video/6950a7c6-0357-4a82-97ad-9a37bbe3d858) [Python](https://www.helsinki.fi/unitube/video/c314c356-3c82-4ebe-9c5c-1e711010c432)<!--
 
+<!--
 ### Viikko 4
 
 * Video: Linkitetty rakenne [Java](https://www.helsinki.fi/unitube/video/5c6e478c-c3b0-4969-a090-31cd502eac84) [Python](https://www.helsinki.fi/unitube/video/f8081858-8678-450c-8820-470328add978)
