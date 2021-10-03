@@ -45,14 +45,12 @@ Kurssin jokainen viikko käsittelee vastaavaa kirjan lukua (I-osa luvut 1–7 ja
 * Video: Samat luvut alilistoissa [Java](https://www.helsinki.fi/unitube/video/08829fa0-73ac-4d3a-9aa8-7f3bf8789622) [Python](https://www.helsinki.fi/unitube/video/7a552dc8-30d9-482a-a69e-f51017221ede)
 * Video: Javan sudenkuoppia [Java](https://www.helsinki.fi/unitube/video/6820666d-654c-4c85-ab06-61c0c2c630cf)
 
+### Viikko 6
+
+* Binääripuun toteutus [Java](java-binaaripuu.html) [Python](python-binaaripuu.html)
+* Binääripuun piirtäminen [Java](java-puupiirto.html) [Python](python-puupiirto.html)
+
 <!--
-### Viikko 5
-
-* Video: Hajautustaulu tietorakenteessa [Java](https://www.helsinki.fi/unitube/video/c35607e3-8e68-4911-8898-0ce71372d89c) [Python](https://www.helsinki.fi/unitube/video/7c809b28-2220-43c2-bf53-8f96eef8c131)
-* Video: Samat luvut alilistoissa [Java](https://www.helsinki.fi/unitube/video/08829fa0-73ac-4d3a-9aa8-7f3bf8789622) [Python](https://www.helsinki.fi/unitube/video/7a552dc8-30d9-482a-a69e-f51017221ede)
-* Video: Javan sudenkuoppia [Java](https://www.helsinki.fi/unitube/video/6820666d-654c-4c85-ab06-61c0c2c630cf)
-* Video: Miten ABC-tasapaino toimii? [Analyysi](https://www.helsinki.fi/unitube/video/6842424d-b338-463f-a543-0b412910dd75)
-
 ### Viikko 6
 
 * Binääripuun toteutus [Java](java-binaaripuu.html) [Python](python-binaaripuu.html)
