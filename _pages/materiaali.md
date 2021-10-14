@@ -52,7 +52,6 @@ Kurssin jokainen viikko käsittelee vastaavaa kirjan lukua (I-osa luvut 1–7 ja
 * Video: Binääripuu ja rekursio [Java](https://www.helsinki.fi/unitube/video/98f5975f-2139-458a-841f-c34630b472b1) [Python](https://www.helsinki.fi/unitube/video/2a970451-d5dc-4341-8337-5cabbdf86e6c)
 * Video: Binomikerroin algoritmeissa [Java & Python](https://www.helsinki.fi/unitube/video/4e389a3b-ac06-4cb1-9512-430d440b5819)
 
-<!--
 ### Viikko 7
 
 * Video: Keon järjestys [Java](https://www.helsinki.fi/unitube/video/c1b4098f-8a1b-4117-a9bb-957041bb9c0e) [Python](https://www.helsinki.fi/unitube/video/5fadb765-ca8d-4b41-914c-55dd006fd2f3)
@@ -60,6 +59,7 @@ Kurssin jokainen viikko käsittelee vastaavaa kirjan lukua (I-osa luvut 1–7 ja
 * Video: Miten pärjätä ilman binäärihakupuuta? [Java & Python](https://www.helsinki.fi/unitube/video/1c1a73b4-e1ef-47e4-b2ab-e21f841a84d2)
 * Video: Etäisyyksien laskeminen [Ideointi](https://www.helsinki.fi/fi/unitube/video/0ee88dfb-e551-4f56-8f9e-c6453d69a482)
 
+<!--
 ### Viikko 8
 
 * Video: Kurssin II-osan aloitusluento [Tallenne](https://www.helsinki.fi/fi/unitube/video/738922d5-afca-438a-86b2-c4c8726095a3)
