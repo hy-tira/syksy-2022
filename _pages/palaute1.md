@@ -1,6 +1,6 @@
 ---
 title: Kurssin I-osan palaute
-hidden: false
+hidden: true
 ---
 
 # Kurssin I-osan palaute
