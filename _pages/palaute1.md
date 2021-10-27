@@ -23,6 +23,9 @@ Arvioi seuraavia väitteitä (1 = täysin eri mieltä, 5 = täysin samaa mieltä
 * Toteutustapa tuki oppimistani: 4.13
 * Materiaalit tukivat oppimistani: 4.02
 * Arviointi mittasi oppimistani: 4.03
+
+Kurssin raskaus (1 = turhan kevyt, 5 = turhan raskas):
+
 * Työmäärältään opintojakso oli: 3.63
 
 Kurssin kokonaisarvosana:
