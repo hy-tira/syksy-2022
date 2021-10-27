@@ -1,11 +1,19 @@
 ---
 title: Kurssin I-osan palaute
-hidden: true
+hidden: false
 ---
 
 # Kurssin I-osan palaute
 
 Kurssipalautteen antoi 153 opiskelijaa.
+
+Kuten aiempinakin vuosina, kurssin palaute on jakautunutta ja monissa kurssin toteutukseen liittyvissä asioissa nykyinen käytäntö saa sekä positiivista että negatiivista palautetta. Tämä onkin haaste kurssin kehittämisessä, koska ei ole mahdollista tehdä kaikkia miellyttäviä muutoksia.
+
+Keskeinen kritiikin kohde kurssilla on, että kurssin materiaalin ei koeta auttavan riittävästi tehtävien ratkaisemisessa. Tulevaisuuden suunnitelmana on lisätä kurssin materiaaliin lisää esimerkkejä algoritmien suunnittelusta niin, että materiaali tukisi paremmin kurssin suorittamista. Palautteen perusteella on erityisesti tarvetta rekursioon liittyville esimerkeille.
+
+Palautteessa tulee myös esille, että kurssin viikoittaiset deadlinet koetaan raskaiksi. Mahdollinen muutos tähän on, että kurssin kaikilla tehtävillä olisi yhteinen deadline. On kuitenkin vaikeaa arvioida etukäteen, miten hyvin tämä toimisi, koska tämä saattaisi kannustaa lykkäämään kurssin tehtävien ratkaisemista.
+
+Palautteen perusteella kurssin II-osassa kaikki tehtävien materiaali julkaistaan samana päivänä kuin tehtävät ja tehtävien ohjeistusta pyritään selkeyttämään.
 
 ## Numeerinen palaute
 
