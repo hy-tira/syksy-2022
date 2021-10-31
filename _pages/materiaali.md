@@ -59,10 +59,9 @@ Kurssin jokainen viikko käsittelee vastaavaa kirjan lukua (I-osa luvut 1–7 ja
 * Video: Miten pärjätä ilman binäärihakupuuta? [Java & Python](https://www.helsinki.fi/unitube/video/1c1a73b4-e1ef-47e4-b2ab-e21f841a84d2)
 * Video: Etäisyyksien laskeminen [Ideointi](https://www.helsinki.fi/fi/unitube/video/0ee88dfb-e551-4f56-8f9e-c6453d69a482)
 
-<!--
 ### Viikko 8
 
-* Video: Kurssin II-osan aloitusluento [Tallenne](https://www.helsinki.fi/fi/unitube/video/738922d5-afca-438a-86b2-c4c8726095a3)
+* Video: Kurssin II-osan aloitusluento (tallenne tulee luennon jälkeen)
 * Video: Esitystapojen laskeminen [Ideointi](https://www.helsinki.fi/fi/unitube/video/fb33584e-da29-4f09-a8e9-6d596261763e)
 
 ### Viikko 9
@@ -71,6 +70,7 @@ Kurssin jokainen viikko käsittelee vastaavaa kirjan lukua (I-osa luvut 1–7 ja
 * Video: Reitit ruudukossa [Java](https://www.helsinki.fi/unitube/video/4bb0f7f4-e575-447e-aae9-b9e8abf18463) [Python](https://www.helsinki.fi/unitube/video/55957a06-454f-44c7-bc9d-c52e463f9956)
 * Video: Merkkijonon tyhjennys [Java](https://www.helsinki.fi/unitube/video/99a8857d-a866-4412-adfa-ff8c85917932) [Python](https://www.helsinki.fi/unitube/video/295bd36d-46a4-4261-9cc1-1963cd771819)
 
+<!--
 ### Viikko 10
 
 * Video: Verkon käsittely [Java](https://www.helsinki.fi/unitube/video/411ab79c-0eb1-49b8-bb2e-66af4e74c92b) [Python](https://www.helsinki.fi/unitube/video/4e1a8382-9c0c-48f2-a497-4de82cb12ad7)
