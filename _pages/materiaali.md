@@ -61,7 +61,7 @@ Kurssin jokainen viikko käsittelee vastaavaa kirjan lukua (I-osa luvut 1–7 ja
 
 ### Viikko 8
 
-* Video: Kurssin II-osan aloitusluento (tallenne tulee luennon jälkeen)
+* Video: Kurssin II-osan aloitusluento [Tallenne](https://www2.helsinki.fi/fi/unitube/video/cd1d5109-f14b-4fe1-aa31-2bba4a1e9937)
 * Video: Esitystapojen laskeminen [Ideointi](https://www.helsinki.fi/fi/unitube/video/fb33584e-da29-4f09-a8e9-6d596261763e)
 
 ### Viikko 9
