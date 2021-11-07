@@ -70,14 +70,13 @@ Kurssin jokainen viikko käsittelee vastaavaa kirjan lukua (I-osa luvut 1–7 ja
 * Video: Reitit ruudukossa [Java](https://www.helsinki.fi/unitube/video/4bb0f7f4-e575-447e-aae9-b9e8abf18463) [Python](https://www.helsinki.fi/unitube/video/55957a06-454f-44c7-bc9d-c52e463f9956)
 * Video: Merkkijonon tyhjennys [Java](https://www.helsinki.fi/unitube/video/99a8857d-a866-4412-adfa-ff8c85917932) [Python](https://www.helsinki.fi/unitube/video/295bd36d-46a4-4261-9cc1-1963cd771819)
 
-<!--
 ### Viikko 10
 
 * Video: Verkon käsittely [Java](https://www.helsinki.fi/unitube/video/411ab79c-0eb1-49b8-bb2e-66af4e74c92b) [Python](https://www.helsinki.fi/unitube/video/4e1a8382-9c0c-48f2-a497-4de82cb12ad7)
 * Video: Ruudukon käsittely [Java](https://www.helsinki.fi/unitube/video/45d00468-7a6a-4862-ab50-5379eedd5b5d) [Python](https://www.helsinki.fi/unitube/video/ffe9e56a-f1d3-4ba7-a9d5-bd663d4079f7)
 * Video: Laatikko labyrintissa [Ideointi](https://www.helsinki.fi/fi/unitube/video/15d1a1a6-0a43-4ea9-bfc5-232d24dd1fc8)
-* Video: Pinojärjestämisen paluu [Analyysi](https://www.helsinki.fi/fi/unitube/video/9cd951c5-9e73-4448-a89f-9291d8e15654)
 
+<!--
 ### Viikko 11
 
 * Video: Lyhimmän polun haku [Java](https://www.helsinki.fi/unitube/video/a6b8d3fe-5809-4cfd-9a37-3b529f4b23c1) [Python](https://www.helsinki.fi/unitube/video/bc1c10f8-8bdc-4522-87df-41b8651c8374)
