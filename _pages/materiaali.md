@@ -92,12 +92,10 @@ Kurssin jokainen viikko käsittelee vastaavaa kirjan lukua (I-osa luvut 1–7 ja
 * Video: Union-find-algoritmi [Java](https://www.helsinki.fi/unitube/video/da45a7de-e7be-4e3f-99b1-889ed1b20278) [Python](https://www.helsinki.fi/unitube/video/2b9ebb14-66ae-4fa8-99fc-9107b513097c)
 * Video: Pienin ja suurin ratkaisu [Ideointi](https://www.helsinki.fi/fi/unitube/video/2f5e69e9-d8af-4213-823d-f2514fe7cfbe)
 
-<!--
 ### Viikko 14
 
 * Video: Virtauksen laskeminen [Java](https://www.helsinki.fi/unitube/video/d49289a3-dc4b-4fb2-8b83-d6ca7c20bcce) [Python](https://www.helsinki.fi/unitube/video/d641fa1c-9d31-4c42-87d4-7763198fab6f)
 * Video: Solmun virtauksen rajoitus [Ideointi](https://www.helsinki.fi/fi/unitube/video/6f4c508e-c219-4118-8a2c-2708e3010040)
--->
 
 ## Muita kirjoja
 
