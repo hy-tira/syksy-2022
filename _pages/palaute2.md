@@ -7,7 +7,23 @@ hidden: true
 
 Kurssipalautteen antoi 98 opiskelijaa.
 
-TODO
+Selkeä palautteesta tuleva viesti on, että kurssin työmäärä koetaan liian suureksi, arvostelutapa liian tiukaksi ja materiaali riittämättömäksi.
+
+Tulevaisuudessa hyvä kokeilu voisi olla muuttaa kurssia niin, että viikoittaisen deadlinen sijasta kaikilla tehtävillä olisi vain yksi deadline kurssin lopussa. Tällöin kurssi joustaisi paremmin 
+esimerkiksi silloin, kun opiskelija sairastuu kurssin aikana. Tässä on riskinä, että tehtävien ratkominen painottuisi kurssin loppuun, mutta toisaalta nykyinen viikoittainen deadline ei ainakaan tunnu 
+toimivan hyvin monilla opiskelijoilla.
+
+Palautteessa on monia toiveita, että kurssilla olisi enemmän luentoja ja ohjausta. Luentojen sijasta kurssilla on ollut eri aiheita käsitteleviä videoita, mutta tulevaisuudessa voisi taas kokeilla 
+perinteisiä luentoja. Toisaalta haasteena tuntuu olevan opetuksen tavoittavuus. Kurssilla järjestettiin pajaohjausta kolmena päivänä viikossa, mutta vain noin kymmenen opiskelijaa viikossa osallistui 
+ohjaukseen. Haasteena on siis, että ohjaus koetaan riittämättömäksi mutta samaan aikaan nykyisessä ohjauksessa on vähän osallistujia.
+
+Palautteesta huolimatta kurssin vaikeustason laskeminen ei tunnu hyvältä idealta. Kurssia olisi mahdollista helpottaa vähentämällä vaadittujen tehtävien määriä ja muuttamalla arvosanarajoja, minkä jälkeen 
+kurssin tulokset näyttäisivät luultavasti paremmilta. Kuitenkaan loppujen lopuksi oleellista ei ole saada tiettyä arvosanaa vaan oppia hyödyllisiä ja kiinnostavia asioita. Myöhemmillä kursseilla ja 
+työelämässä ei ole väliä, minkä arvosanan sai Tirasta vaan mitä taitoja on oppinut.
+
+Kurssi järjestettiin vuosi sitten syksyllä 2020 samalla formaatilla ja saman tasoisilla tehtävillä. Tähän verrattuna tämän syksyn palaute on selvästi kriittisempää ja tyytyväisyys kurssiin on laskenut. 
+Syksyllä 2020 palautteen keskimääräinen kokonaisarvosana kurssille oli 4.42, kun se nyt on 3.96. Tämä on huomattava lasku, jollaista ei yleensä tapahdu kursseilla. Nyt onkin aihetta pohtia, mitä on 
+tapahtunut ja mitä tässä tilanteessa kannattaisi tehdä.
 
 ## Numeerinen palaute
 
