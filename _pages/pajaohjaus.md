@@ -5,10 +5,12 @@ hidden: true
 
 # Pajaohjaus
 
-Syksyllä 2021 toiminnassa on algoritmipaja, joka on yhteinen kursseille _Laskennan mallit_ ja _Tietorakenteet ja algoritmit_. Voit saada pajassa henkilökohtaista ohjausta kurssien tehtäviin.
+Syksyllä 2022 toiminnassa on algoritmipaja, joka on yhteinen kursseille _Laskennan mallit_ ja _Tietorakenteet ja algoritmit_. Voit saada pajassa henkilökohtaista ohjausta kurssien tehtäviin.
 
-Viikoittaiset ohjausajat 2. periodilla (19.12. asti) ovat:
+Viikoittaiset ohjausajat 1. periodilla (23.10. asti) ovat:
 
-* ti 15–18 (etäopetus, Discord)
-* to 16–19 (etäopetus, Discord)
-* pe 14–17 (lähiopetus, Exactum B221)
+* ti 10–12 (Exactum B221)
+* ti 13–16 (Exactum B221)
+* ti 16–18 (Exactum Gurulan edusta)
+* to 14–16 (Exactum B221)
+* pe 13–16 (Exactum B221)
