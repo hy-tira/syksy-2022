@@ -25,7 +25,7 @@ Lisäksi voit saada ohjausta tehtäviin myös [algoritmipajassa](pages/pajaohjau
 
 ## Tehtävät
 
-Kurssi muodostuu kahdesta erillisestä 5 op osasuorituksesta. Molemmissa osissa on 7 viikkoa tehtäviä, kullakin viikolla 8 tehtävää. Suoritukseen vaaditaan, että ratkaiset joka viikko ainakin 5 tehtävää. Suorituksen arvosana määräytyy seuraavasti:
+Kurssi muodostuu kahdesta erillisestä 5 op osasuorituksesta. Molemmissa osissa on 7 viikkoa tehtäviä, kullakin viikolla 8 tehtävää. Suoritukseen vaaditaan, että ratkaiset joka viikon tehtävistä ainakin 5 tehtävää deadlineen mennessä. Suorituksen arvosana määräytyy seuraavasti:
 
 * 35–39 tehtävää: arvosana 1
 * 40–43 tehtävää: arvosana 2
@@ -33,23 +33,19 @@ Kurssi muodostuu kahdesta erillisestä 5 op osasuorituksesta. Molemmissa osissa 
 * 48–51 tehtävää: arvosana 4
 * 52–56 tehtävää: arvosana 5
 
-Kurssin I-osan tehtävien aikataulu on seuraava:
+Kurssin I-osan tehtävien deadline on su 30.10. klo 23:59. Tehtävät julkaistaan seuraavan aikataulun mukaisesti:
 
 <table style="border-collapse:collapse">
 <tr><td>viikko</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td><td>7</td></tr>
 <tr><td>julkaisu</td><td>5.9.</td><td>12.9.</td><td>12.9.</td><td>19.9.</td><td>19.9.</td><td>26.9.</td><td>26.9.</td></tr>
-<tr style="background-color:white"><td>deadline</td><td>30.10.</td><td>30.10.</td><td>30.10.</td><td>30.10.</td><td>30.10.</td><td>30.10.</td><td>30.10.</td></tr>
 </table>
 
-Kurssin II-osan tehtävien aikataulu on seuraava:
+Kurssin II-osan tehtävien deadline on pe 23.12. klo 23:59. Tehtävät julkaistaan seuraavan aikataulun mukaisesti:
 
 <table style="border-collapse:collapse">
 <tr><td>viikko</td><td>8</td><td>9</td><td>10</td><td>11</td><td>12</td><td>13</td><td>14</td></tr>
 <tr><td>julkaisu</td><td>31.10.</td><td>7.11.</td><td>7.11.</td><td>14.11.</td><td>14.11.</td><td>21.11.</td><td>21.11.</td></tr>
-<tr style="background-color:white"><td>deadline</td><td>23.12.</td><td>23.12.</td><td>23.12.</td><td>23.12.</td><td>23.12.</td><td>23.12.</td><td>23.12.</td></tr>
 </table>
-
-Kaikki deadlinet ovat sunnuntaisin klo 23:59.
 
 ## Yhteystiedot
 
