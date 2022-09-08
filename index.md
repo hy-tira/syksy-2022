@@ -9,13 +9,11 @@ _Tietorakenteet ja algoritmit_ on tietojenkäsittelytieteen aineopintokurssi, jo
 
 Syksyllä 2022 voit suorittaa kurssin verkkokurssina, jonka materiaali on tällä sivustolla. Kurssi suoritetaan ratkomalla automaattisesti palautettavia tehtäviä. Kurssi järjestetään samalla tavalla Helsingin yliopiston tutkinto-opiskelijoille ja Avoimen yliopiston opiskelijoille.
 
-## Ilmoittautuminen
-
-Jos olet Helsingin yliopiston tutkinto-opiskelija, ilmoittaudu kurssille Sisussa. Jos olet Avoimen yliopiston opiskelija, kurssille ei ole ilmoittautumista etukäteen vaan saat ohjeet suoritusmerkinnän hakemiseen kurssin aikana.
+Kurssille ei ole ilmoittautumista etukäteen, vaan saat ohjeet suoritusmerkinnän hakemiseen kurssin aikana. Kaikki opiskelijat (myös Helsingin yliopiston tutkinto-opiskelijat) saavat suorituksen Avoimen yliopiston kautta.
 
 ## Luennot ja ohjaus
 
-Kurssin I-osan aloitusluento järjestetään Zoomissa to 8.9. klo 14:15–15:45. Zoom-linkki ilmestyy tähän myöhemmin.
+Kurssin I-osan aloitusluento järjestetään Zoomissa to 8.9. klo 14:15–15:45. [Zoom-linkki](https://helsinki.zoom.us/j/63236044647?pwd=bDM4THpWeHdMR01FNC9CV1FVdzgwdz09)
 
 Kurssin II-osan aloitusluento järjestetään Zoomissa to 3.11. klo 14:15–15:45. Zoom-linkki ilmestyy tähän myöhemmin.
 
