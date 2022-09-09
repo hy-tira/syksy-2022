@@ -13,7 +13,7 @@ Kurssille ei ole ilmoittautumista etukäteen, vaan saat ohjeet suoritusmerkinnä
 
 ## Luennot ja ohjaus
 
-Kurssin I-osan aloitusluento järjestetään Zoomissa to 8.9. klo 14:15–15:45. [Zoom-linkki](https://helsinki.zoom.us/j/63236044647?pwd=bDM4THpWeHdMR01FNC9CV1FVdzgwdz09)
+Kurssin I-osan aloitusluento järjestetään Zoomissa to 8.9. klo 14:15–15:45. [Luentotallenne](https://www2.helsinki.fi/fi/unitube/video/79d6e34b-d092-4895-8962-f9ebdc8878ee)
 
 Kurssin II-osan aloitusluento järjestetään Zoomissa to 3.11. klo 14:15–15:45. Zoom-linkki ilmestyy tähän myöhemmin.
 
