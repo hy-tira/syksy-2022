@@ -26,5 +26,5 @@ Kurssin aihepiiristä on julkaistu englanniksi paljon kirjoja, jotka sopivat kur
 
 Alan klassikko on _Introduction to Algorithms_, joka tunnetaan myös nimellä _CLRS_ tekijöiden sukunimien mukaan:
 
-* [https://mitpress.mit.edu/algorithms/](https://mitpress.mit.edu/algorithms/)
+* [https://mitpress.mit.edu/9780262046305/](https://mitpress.mit.edu/9780262046305/)
 
