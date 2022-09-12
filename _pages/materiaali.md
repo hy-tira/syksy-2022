@@ -24,6 +24,7 @@ Kurssin jokainen viikko käsittelee vastaavaa kirjan lukua (I-osa luvut 1–7 ja
 
 * Video: [Kuinka tehdä O(n)-algoritmi?](https://www.helsinki.fi/unitube/video/2e79c746-f540-4105-9359-52ca764b9463)
 * Video: [Toinen O(n)-algoritmi](https://www.helsinki.fi/unitube/video/b37019b6-b43f-4e02-a3b3-1b9a1ed35aca)
+* Video: [Algoritmin tehokkuus eri ohjelmointikielissä](https://www2.helsinki.fi/fi/unitube/video/85773952-ed9c-4426-8a4c-aa5e2d7861eb)
 
 ### Viikko 3
 
