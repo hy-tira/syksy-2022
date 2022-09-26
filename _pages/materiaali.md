@@ -43,6 +43,19 @@ Kurssin jokainen viikko käsittelee vastaavaa kirjan lukua (I-osa luvut 1–7 ja
 * Video: [Hajautustaulu tietorakenteessa](https://www.helsinki.fi/unitube/video/7c809b28-2220-43c2-bf53-8f96eef8c131)
 * Video: [Samat luvut alilistoissa](https://www.helsinki.fi/unitube/video/7a552dc8-30d9-482a-a69e-f51017221ede)
 
+### Viikko 6
+
+* [Binääripuun toteutus](python-binaaripuu.html)
+* [Binääripuun piirtäminen](python-puupiirto.html)
+* Video: [Binääripuu ja rekursio](https://www.helsinki.fi/unitube/video/2a970451-d5dc-4341-8337-5cabbdf86e6c)
+* Video: [Binomikerroin algoritmeissa](https://www.helsinki.fi/unitube/video/4e389a3b-ac06-4cb1-9512-430d440b5819)
+
+### Viikko 7
+
+* Video: [Keon järjestys](https://www.helsinki.fi/unitube/video/5fadb765-ca8d-4b41-914c-55dd006fd2f3)
+* Video: [Kekoa käyttävä algoritmi](https://www.helsinki.fi/unitube/video/15c28307-c439-40f4-9e2c-e15aa4afb0b6)
+* Video: [Miten pärjätä ilman binäärihakupuuta?](https://www.helsinki.fi/unitube/video/1c1a73b4-e1ef-47e4-b2ab-e21f841a84d2)
+
 ## Muita kirjoja
 
 Kurssin aihepiiristä on julkaistu englanniksi paljon kirjoja, jotka sopivat kurssin lisälukemistoksi.
