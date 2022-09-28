@@ -14,3 +14,5 @@ Viikoittaiset ohjausajat 1. periodilla (23.10. asti) ovat:
 * ti 16–18 (Exactum Gurulan edusta)
 * to 14–16 (Exactum B221)
 * pe 13–16 (Exactum B221)
+
+Kurssille _Tietorakenteet ja algoritmit_ on erityisesti ohjausta ti 13–16 ja pe 13–16.
