@@ -11,3 +11,5 @@ Viikoittaiset ohjausajat loppusyksyn ajan (23.12. asti) ovat:
 
 * ti 13–16 (Exactum B221)
 * pe 13–16 (Exactum B221)
+
+Ohjausta ei ole ti 6.12. itsenäisyyspäivän vuoksi.
