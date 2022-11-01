@@ -11,7 +11,7 @@ Palautteesta tulee selkeä viesti siitä, että monet kurssin osallistujat pitä
 
 Ensi lukuvuonna tulee käyttöön uusi opetussuunnitelma, jonka yhteydessä Tiran aiheiden jaottelu I-osaan ja II-osaan muuttuu. Suunnitelmana on tällöin uudistaa merkittävästi kurssimateriaalia ja lisätä esimerkkejä ja videoita, joita on toivottu palautteessa. Kuitenkin on myös tärkeää, että Tirassa oppii tulevaisuudessakin ongelmanratkaisua eikä materiaali anna liian suoria vastauksia tehtäviin.
 
-Viime syksyn palautteen perusteella tämän syksyn kurssia muutettiin niin, että viikoittaisten deadlinejen sijasta kaikilla tehtävillä on yhteinen deadline. Viime syksynä kurssin I-osan läpäisi 52.4 % osallistujista mutta tänä syksynä vain 42.9 % osallistujista. Kuitenkin läpäisymäärän laskusta huolimatta vaikuttaa siltä, että tämän syksyn kurssi on ollut vähemmän stressaava kuin viime syksynä.
+Viime syksyn palautteen perusteella tämän syksyn kurssia muutettiin niin, että viikoittaisen deadlinen sijasta kaikilla tehtävillä on yhteinen deadline. Viime syksynä kurssin I-osan läpäisi 52.4 % osallistujista mutta tänä syksynä vain 42.9 % osallistujista. Kuitenkin läpäisymäärän laskusta huolimatta vaikuttaa siltä, että tämän syksyn kurssi on ollut vähemmän stressaava kuin viime syksynä.
 
 ## Numeerinen palaute
 
