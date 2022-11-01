@@ -56,6 +56,11 @@ Kurssin jokainen viikko käsittelee vastaavaa kirjan lukua (I-osa luvut 1–7 ja
 * Video: [Kekoa käyttävä algoritmi](https://www2.helsinki.fi/unitube/video/15c28307-c439-40f4-9e2c-e15aa4afb0b6)
 * Video: [Miten pärjätä ilman binäärihakupuuta?](https://www2.helsinki.fi/unitube/video/1c1a73b4-e1ef-47e4-b2ab-e21f841a84d2)
 
+### Viikko 8
+
+* Video: Kurssin II-osan aloitusluento (tulossa myöhemmin)
+* Video: Esitystapojen laskeminen [Ideointi](https://www.helsinki.fi/fi/unitube/video/fb33584e-da29-4f09-a8e9-6d596261763e)
+
 ## Muita kirjoja
 
 Kurssin aihepiiristä on julkaistu englanniksi paljon kirjoja, jotka sopivat kurssin lisälukemistoksi.
