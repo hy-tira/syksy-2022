@@ -9,10 +9,10 @@ Kurssille osallistui 287 opiskelijaa ja kurssin suoritti hyväksytysti 123 opisk
 
 ## Arvosanajakauma
 
-* arvosana 1: 35 opiskelijaa (28.4 %)
+* arvosana 1: 35 opiskelijaa (28.5 %)
 * arvosana 2: 19 opiskelijaa (15.4 %)
-* arvosana 3: 27 opiskelijaa (9.9 %)
-* arvosana 4: 22 opiskelijaa (22.0 %)
+* arvosana 3: 27 opiskelijaa (22.0 %)
+* arvosana 4: 22 opiskelijaa (17.9 %)
 * arvosana 5: 20 opiskelijaa (16.3 %)
 
 ## Pistejakauma
