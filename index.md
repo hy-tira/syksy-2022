@@ -15,7 +15,7 @@ Kurssille ei ole ilmoittautumista etukäteen, vaan saat ohjeet suoritusmerkinnä
 
 Kurssin I-osan aloitusluento järjestetään Zoomissa to 8.9. klo 14:15–15:45. [Luentotallenne](https://www2.helsinki.fi/fi/unitube/video/79d6e34b-d092-4895-8962-f9ebdc8878ee)
 
-Kurssin II-osan aloitusluento järjestetään Zoomissa to 3.11. klo 14:15–15:45. Zoom-linkki ilmestyy tähän myöhemmin.
+Kurssin II-osan aloitusluento järjestetään Zoomissa to 3.11. klo 14:15–15:45. [Zoom-linkki](https://helsinki.zoom.us/j/65997640695?pwd=bGZkNUlocjRweGdYSnYwZzdzR2h4dz09)
 
 Kurssin ohjausta järjestetään Discordissa, jossa voit keskustella kurssin järjestäjien ja muiden opiskelijoiden kanssa. [Liity ryhmään](https://study.cs.helsinki.fi/discord/join/tira)
 
