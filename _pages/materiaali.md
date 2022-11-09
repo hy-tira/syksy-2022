@@ -61,6 +61,18 @@ Kurssin jokainen viikko käsittelee vastaavaa kirjan lukua (I-osa luvut 1–7 ja
 * Video: [Kurssin II-osan aloitusluento](https://www2.helsinki.fi/fi/unitube/video/b56550c9-2df5-4391-9c24-7341e0ad286f)
 * Video: Esitystapojen laskeminen [Ideointi](https://www.helsinki.fi/fi/unitube/video/fb33584e-da29-4f09-a8e9-6d596261763e)
 
+### Viikko 9
+
+* Video: [Summa kolikoista](https://www.helsinki.fi/unitube/video/a532c246-2348-4c1e-9954-a900a1cce30b)
+* Video: [Reitit ruudukossa](https://www.helsinki.fi/unitube/video/55957a06-454f-44c7-bc9d-c52e463f9956)
+* Video: [Merkkijonon tyhjennys](https://www.helsinki.fi/unitube/video/295bd36d-46a4-4261-9cc1-1963cd771819)
+
+### Viikko 10
+
+* Video: [Verkon käsittely](https://www.helsinki.fi/unitube/video/4e1a8382-9c0c-48f2-a497-4de82cb12ad7)
+* Video: [Ruudukon käsittely](https://www.helsinki.fi/unitube/video/ffe9e56a-f1d3-4ba7-a9d5-bd663d4079f7)
+* Video: Laatikko labyrintissa [Ideointi](https://www.helsinki.fi/fi/unitube/video/15d1a1a6-0a43-4ea9-bfc5-232d24dd1fc8)
+
 ## Muita kirjoja
 
 Kurssin aihepiiristä on julkaistu englanniksi paljon kirjoja, jotka sopivat kurssin lisälukemistoksi.
