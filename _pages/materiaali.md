@@ -73,6 +73,17 @@ Kurssin jokainen viikko käsittelee vastaavaa kirjan lukua (I-osa luvut 1–7 ja
 * Video: [Ruudukon käsittely](https://www.helsinki.fi/unitube/video/ffe9e56a-f1d3-4ba7-a9d5-bd663d4079f7)
 * Video: Laatikko labyrintissa [Ideointi](https://www.helsinki.fi/fi/unitube/video/15d1a1a6-0a43-4ea9-bfc5-232d24dd1fc8)
 
+### Viikko 11
+
+* Video: [Lyhimmän polun haku](https://www.helsinki.fi/unitube/video/bc1c10f8-8bdc-4522-87df-41b8651c8374)
+* Video: Ongelman mallinnus verkkona [Ideointi](https://www.helsinki.fi/fi/unitube/video/c9a9499f-27aa-40f9-bd8d-4acfb19b1a51)
+
+### Viikko 12
+
+* Video: [Solmujen nimet](https://www.helsinki.fi/unitube/video/05a792ae-dbb4-460f-bb85-c1e200f7af09)
+* Video: [Polkujen laskeminen](https://www.helsinki.fi/unitube/video/ce683da1-3620-4ec9-987b-7d3965b77be8)
+* Video: Pelien pelaaminen [Ideointi](https://www.helsinki.fi/fi/unitube/video/a9f9033a-f3c2-4660-9ece-9781c2f6b830)
+
 ## Muita kirjoja
 
 Kurssin aihepiiristä on julkaistu englanniksi paljon kirjoja, jotka sopivat kurssin lisälukemistoksi.
