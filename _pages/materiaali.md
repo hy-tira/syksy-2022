@@ -84,6 +84,16 @@ Kurssin jokainen viikko käsittelee vastaavaa kirjan lukua (I-osa luvut 1–7 ja
 * Video: [Polkujen laskeminen](https://www.helsinki.fi/unitube/video/ce683da1-3620-4ec9-987b-7d3965b77be8)
 * Video: Pelien pelaaminen [Ideointi](https://www.helsinki.fi/fi/unitube/video/a9f9033a-f3c2-4660-9ece-9781c2f6b830)
 
+### Viikko 13
+
+* Video: [Union-find-algoritmi](https://www.helsinki.fi/unitube/video/2b9ebb14-66ae-4fa8-99fc-9107b513097c)
+* Video: Pienin ja suurin ratkaisu [Ideointi](https://www.helsinki.fi/fi/unitube/video/2f5e69e9-d8af-4213-823d-f2514fe7cfbe)
+
+### Viikko 14
+
+* Video: [Virtauksen laskeminen](https://www.helsinki.fi/unitube/video/d641fa1c-9d31-4c42-87d4-7763198fab6f)
+* Video: Solmun virtauksen rajoitus [Ideointi](https://www.helsinki.fi/fi/unitube/video/6f4c508e-c219-4118-8a2c-2708e3010040)
+
 ## Muita kirjoja
 
 Kurssin aihepiiristä on julkaistu englanniksi paljon kirjoja, jotka sopivat kurssin lisälukemistoksi.
@@ -91,4 +101,3 @@ Kurssin aihepiiristä on julkaistu englanniksi paljon kirjoja, jotka sopivat kur
 Alan klassikko on _Introduction to Algorithms_, joka tunnetaan myös nimellä _CLRS_ tekijöiden sukunimien mukaan:
 
 * [https://mitpress.mit.edu/9780262046305/](https://mitpress.mit.edu/9780262046305/)
-
