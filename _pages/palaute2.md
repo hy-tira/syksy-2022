@@ -7,7 +7,7 @@ hidden: true
 
 Kurssipalautteen antoi 91 opiskelijaa.
 
-Palautteen perusteella tärkeä kehityskohde kurssilla on materiaalin ja tehtävien yhteys toisiinsa. Vaikuttaa siltä, monet kurssin osallistjat kokevat liian vaikeaksi tehtävien ratkomisen materiaalin perusteella. Kurssin videoita pidetään hyödyllisinä, mutta niitä toivottaisiin olevan enemmän.
+Palautteen perusteella tärkeä kehityskohde kurssilla on materiaalin ja tehtävien yhteys toisiinsa. Vaikuttaa siltä, että monet kurssin osallistujat kokevat liian vaikeaksi tehtävien ratkomisen materiaalin perusteella. Kurssin videoita pidetään hyödyllisinä, mutta niitä toivottaisiin olevan enemmän.
 
 Palautteessa on useita mainintoja siitä, että kurssin suorittaminen vaatii tiedon etsimistä kurssin materiaalin ulkopuolelta. Sinänsä on hyvä tavoite kannustaa tiedon etsimiseen useista lähteistä. Kurssin materiaalia ei voi kuitenkaan pitää onnistuneena, jos esimerkiksi kurssilla käsiteltävien algoritmien toiminnan ymmärtäminen on helpompaa kurssin ulkopuolisten lähteiden avulla.
 
