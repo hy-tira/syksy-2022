@@ -7,7 +7,11 @@ hidden: true
 
 Kurssipalautteen antoi 91 opiskelijaa.
 
-TODO
+Palautteen perusteella tärkeä kehityskohde kurssilla on materiaalin ja tehtävien yhteys toisiinsa. Vaikuttaa siltä, monet kurssin osallistjat kokevat liian vaikeaksi tehtävien ratkomisen materiaalin perusteella. Kurssin videoita pidetään hyödyllisinä, mutta niitä toivottaisiin olevan enemmän.
+
+Palautteessa on useita mainintoja siitä, että kurssin suorittaminen vaatii tiedon etsimistä kurssin materiaalin ulkopuolelta. Sinänsä on hyvä tavoite kannustaa tiedon etsimiseen useista lähteistä. Kurssin materiaalia ei voi kuitenkaan pitää onnistuneena, jos esimerkiksi kurssilla käsiteltävien algoritmien toiminnan ymmärtäminen on helpompaa kurssin ulkopuolisten lähteiden avulla.
+
+Syksyn Tiran toinen osa sai hieman positiivisempaa palautetta kuin ensimmäinen osa. Yksi syy tähän vaikuttaa olevan, että materiaalin koetaan vastaavan paremmin kurssin tehtäviä. Toisaalta toisen osan osallistujat ovat valikoituneempia, koska toisessa osassa on mukana lähinnä vain opiskelijoita, jotka ovat jo suorittaneet ensimmäisen osan.
 
 ## Numeerinen palaute
 
